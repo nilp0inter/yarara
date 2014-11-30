@@ -1,0 +1,31 @@
+{
+  "name": "yarara",
+  "version": "0.0.1",
+  "authors": [
+    "Roberto Abdelkader Martínez Pérez <robertomartinezp@gmail.com>"
+  ],
+  "description": "Compare all python versions at once in real time.",
+  "main": "yarara",
+  "keywords": [
+    "python",
+    "repl"
+  ],
+  "license": "GPLv3",
+  "homepage": "http://www.yarara.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.shapeshift": "~2.0.0",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0",
+    "jquery-ui": "~1.11.0",
+    "jquery.terminal": "~0.8.8",
+    "backbone": "~1.1.2",
+    "d3": "~3.4.10"
+  }
+}
